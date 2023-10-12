@@ -1,0 +1,2 @@
+# OthelloAI
+Othello Console App
